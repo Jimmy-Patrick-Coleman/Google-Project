@@ -6,4 +6,4 @@ Although its in the readme of all the reuploads the saddest one.
 I finaly got the hang of uploading to git with this one and made sure to give good stage progression on it but i had to make a more approprate username to use.
 This is my Google Homepage Remake.
 
-view at https://jimmypcoleman.github.io/Google-Project/.
+view at 
